@@ -5,4 +5,4 @@ $touch 1.cpp
 $cpp -dM 1.cpp 
 ```
 
-* https://sourceforge.net/p/predef/wiki/OperatingSystems/
+* predef macros https://sourceforge.net/p/predef/wiki/OperatingSystems/
