@@ -1,0 +1,15 @@
+
+$  ~ uname -a
+Linux localhost.localdomain 2.6.32-642.11.1.el6.x86_64 #1 SMP Fri Nov 18 19:25:05 UTC 2016 x86_64 x86_64 x86_64 GNU/Linux
+$  ~ uname -m
+x86_64
+$  ~ uname -n
+localhost.localdomain
+$  ~ uname -p
+x86_64
+$  ~ uname -r
+2.6.32-642.11.1.el6.x86_64
+$  ~ uname -s
+Linux
+$  ~ uname -v
+#1 SMP Fri Nov 18 19:25:05 UTC 2016

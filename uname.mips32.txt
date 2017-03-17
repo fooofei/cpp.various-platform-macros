@@ -1,0 +1,18 @@
+
+下面是 mips64 架构，但系统安装的是 mips32
+
+[root@localhost ~]# uname -a
+Linux localhost.localdomain 2.6.36.3gw #30 SMP PREEMPT Tue Jan 21 14:42:09 CST 2014 g1d064ab mips64 mips64 mips64 GNU/Linux
+[root@localhost ~]# 
+[root@localhost ~]# uname -m
+mips64
+[root@localhost ~]# uname -n
+localhost.localdomain
+[root@localhost ~]# uname -p
+mips64
+[root@localhost ~]# uname -r
+2.6.36.3gw
+[root@localhost ~]# uname -s
+Linux
+[root@localhost ~]# uname -v
+#30 SMP PREEMPT Tue Jan 21 14:42:09 CST 2014 g1d064ab
