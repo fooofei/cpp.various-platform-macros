@@ -1,12 +1,12 @@
-
+ï»¿
 
 
 $  ~ uname -a
-Darwin <»úÆ÷Ãû×Ö> 16.4.0 Darwin Kernel Version 16.4.0: Thu Dec 22 22:53:21 PST 2016; root:xnu-3789.41.3~3/RELEASE_X86_64 x86_64
+Darwin <æœºå™¨åå­—> 16.4.0 Darwin Kernel Version 16.4.0: Thu Dec 22 22:53:21 PST 2016; root:xnu-3789.41.3~3/RELEASE_X86_64 x86_64
 $  ~ uname -m print the machine hardware name.
 x86_64
 $  ~ uname -n
-<»úÆ÷Ãû×Ö>
+<æœºå™¨åå­—>
 $  ~ uname -p print the machine processor architecture name.
 i386
 $  ~ uname -r

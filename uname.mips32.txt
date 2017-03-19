@@ -1,5 +1,5 @@
-
-ÏÂÃæÊÇ mips64 ¼Ü¹¹£¬µ«ÏµÍ³°²×°µÄÊÇ mips32
+ï»¿
+ä¸‹é¢æ˜¯ mips64 æ¶æ„ï¼Œä½†ç³»ç»Ÿå®‰è£…çš„æ˜¯ mips32
 
 [root@localhost ~]# uname -a
 Linux localhost.localdomain 2.6.36.3gw #30 SMP PREEMPT Tue Jan 21 14:42:09 CST 2014 g1d064ab mips64 mips64 mips64 GNU/Linux

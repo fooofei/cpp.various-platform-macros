@@ -1,15 +1,15 @@
 
-[hujianfei@localhost ~]$ uname -a
+[root@localhost ~]$ uname -a
 Linux localhost.localdomain 2.6.18-419.el5 #1 SMP Fri Feb 24 22:47:42 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux
-[hujianfei@localhost ~]$ uname -m
+[root@localhost ~]$ uname -m
 x86_64
-[hujianfei@localhost ~]$ uname -n
+[root@localhost ~]$ uname -n
 localhost.localdomain
-[hujianfei@localhost ~]$ uname -p
+[root@localhost ~]$ uname -p
 x86_64
-[hujianfei@localhost ~]$ uname -r
+[root@localhost ~]$ uname -r
 2.6.18-419.el5
-[hujianfei@localhost ~]$ uname -s
+[root@localhost ~]$ uname -s
 Linux
-[hujianfei@localhost ~]$ uname -v
+[root@localhost ~]$ uname -v
 #1 SMP Fri Feb 24 22:47:42 UTC 2017
