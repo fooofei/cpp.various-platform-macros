@@ -41,3 +41,23 @@ else
 #endif
 
 ```
+
+
+### 去符号
+
+```
+strip --strip-unneeded libxxx.so
+
+or 
+
+objcopy -S libxxx.so
+
+这两种方法生成的 binary 二进制一样，md5 相同
+
+去符号之前可以使用命令 
+
+objcopy --only-keep-debug libxxx.so libxxx.so.dbg
+
+把符号保存下来，说是为了调试的时候使用，但是实践并不实用。
+
+```
