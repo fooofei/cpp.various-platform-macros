@@ -3,11 +3,9 @@
 ```
 $touch 1.cpp
 $cpp -dM 1.cpp 
-```
 
 or
 
-```
 gcc -dM -E - </dev/null
 ```
 
