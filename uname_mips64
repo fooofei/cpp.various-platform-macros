@@ -1,0 +1,20 @@
+$ uname -s
+  Linux
+$ uname -n
+  localhost.localdomain
+$ uname -r
+  2.6.32-0.51.ns6.mips64el
+$ uname -v
+  #1 SMP Fri Jan 9 10:30:16 CST 2015
+$ uname -m
+  mips64el
+$ uname -p
+  mips64el
+$ uname -a
+  Linux localhost.localdomain 2.6.32-0.51.ns6.mips64el #1 SMP Fri Jan 9 10:30:16 CST 2015 mips64el mips64el mips64el GNU/Linux
+$ getconf LONG_BIT
+  64
+$ getconf WORD_BIT
+  32
+$ gcc -dumpmachine
+  mips64el-neokylin-linux

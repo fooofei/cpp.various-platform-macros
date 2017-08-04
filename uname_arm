@@ -1,0 +1,20 @@
+$ uname -s
+  Linux
+$ uname -n
+  kylin-os
+$ uname -r
+  3.14.57-20160128.kylin.4.server.generic+
+$ uname -v
+  #1 SMP Thu Jan 28 14:56:25 CST 2016
+$ uname -m
+  aarch64
+$ uname -p
+  aarch64
+$ uname -a
+  Linux kylin-os 3.14.57-20160128.kylin.4.server.generic+ #1 SMP Thu Jan 28 14:56:25 CST 2016 aarch64 aarch64 aarch64 GNU/Linux
+$ getconf LONG_BIT
+  64
+$ getconf WORD_BIT
+  32
+$ gcc -dumpmachine
+  aarch64-linux-gnu

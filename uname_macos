@@ -1,0 +1,20 @@
+$ uname -s
+  Darwin
+$ uname -n
+  xxxdeMacBook-Pro-2.local
+$ uname -r
+  16.5.0
+$ uname -v
+  Darwin Kernel Version 16.5.0: Fri Mar  3 16:52:33 PST 2017; root:xnu-3789.51.2~3/RELEASE_X86_64
+$ uname -m
+  x86_64
+$ uname -p
+  i386
+$ uname -a
+  Darwin xxxdeMacBook-Pro-2.local 16.5.0 Darwin Kernel Version 16.5.0: Fri Mar  3 16:52:33 PST 2017; root:xnu-3789.51.2~3/RELEASE_X86_64 x86_64
+$ getconf LONG_BIT
+  64
+$ getconf WORD_BIT
+  32
+$ gcc -dumpmachine
+  x86_64-apple-darwin16.5.0

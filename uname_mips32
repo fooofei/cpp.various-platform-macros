@@ -1,0 +1,20 @@
+$ uname -s
+  Linux
+$ uname -n
+  localhost.localdomain
+$ uname -r
+  2.6.36.3gw
+$ uname -v
+  #30 SMP PREEMPT Tue Jan 21 14:42:09 CST 2014 g1d064ab
+$ uname -m
+  mips64
+$ uname -p
+  mips64
+$ uname -a
+  Linux localhost.localdomain 2.6.36.3gw #30 SMP PREEMPT Tue Jan 21 14:42:09 CST 2014 g1d064ab mips64 mips64 mips64 GNU/Linux
+$ getconf LONG_BIT
+  32
+$ getconf WORD_BIT
+  32
+$ gcc -dumpmachine
+  mipsel-NeoKylin-linux

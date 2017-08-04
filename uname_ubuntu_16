@@ -1,0 +1,20 @@
+$ uname -s
+  Linux
+$ uname -n
+  a-VirtualBox
+$ uname -r
+  4.4.49
+$ uname -v
+  #1 SMP Thu Mar 23 17:52:24 CST 2017
+$ uname -m
+  x86_64
+$ uname -p
+  x86_64
+$ uname -a
+  Linux a-VirtualBox 4.4.49 #1 SMP Thu Mar 23 17:52:24 CST 2017 x86_64 x86_64 x86_64 GNU/Linux
+$ getconf LONG_BIT
+  64
+$ getconf WORD_BIT
+  32
+$ gcc -dumpmachine
+  x86_64-linux-gnu
