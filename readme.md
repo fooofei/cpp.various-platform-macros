@@ -9,7 +9,9 @@ or
 gcc -dM -E - </dev/null
 ```
 
-* predef macros https://sourceforge.net/p/predef/wiki/OperatingSystems/
+* predef macros 
+
+https://sourceforge.net/p/predef/wiki/OperatingSystems/
 
 
 ### In Cpp 目前代码中使用宏区分：
